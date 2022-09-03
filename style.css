@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(215, 223, 232);
+}
+.main-b {
+  width: 350px;
+  height: 550px;
+  margin: 50px auto;
+  text-align: center;
+  background-color: white;
+  border-radius: 20px;
+}
+img {
+  width: 92%;
+  margin-top: 10px;
+  border-radius: 17px;
+}
+.second {
+  color: rgb(155, 154, 154);
+  font-size: 20px;
+  text-align: center;
+}
